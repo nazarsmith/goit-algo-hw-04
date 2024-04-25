@@ -61,4 +61,4 @@ The first **50** items from the list that is to be sorted:
 
 ## Results:
 
-As can be seen from the experiments and the graph representation of those, the inbuilt function `sorted()` is by far (approx **6000** times faster) exceeds sorting via `merging`, and at least **150** times faster than sorting via `insertions`.
+As can be seen from the experiments and the graph representation of those, the inbuilt function `sorted()` is by far (approx **6000** times faster) exceeds sorting via `insertions`, and at least **150** times faster than sorting via `merging`.
